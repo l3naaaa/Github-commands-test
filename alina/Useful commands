@@ -1,0 +1,17 @@
+Useful commands
+
+code <filename> - Will open vscode editor with the filename give (a new file will be opened if file doesn’t exist - NOTE YOU NEED TO SAVE the file otherwise it won’t have the contents)
+
+
+mv <source> < destination >
+cp <source> <destination>
+
+Both of the above “/“ after name means the directory contents!! NOT the directory itself 
+
+
+touch <filename> will just create a blank file with NOTHING inside it.
+
+
+mkdir <directory name> (will create the directory where ever you are)
+mkdir -p <directory/directory/directory> will create ALL the directory underneath each other (I will explain this later)
+
